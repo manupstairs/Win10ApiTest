@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win10ApiTest", "Win10ApiTest\Win10ApiTest.csproj", "{4BF718FA-A1F1-4CDC-A781-1603C21706B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BF718FA-A1F1-4CDC-A781-1603C21706B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF718FA-A1F1-4CDC-A781-1603C21706B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF718FA-A1F1-4CDC-A781-1603C21706B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF718FA-A1F1-4CDC-A781-1603C21706B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C920F77C-7806-4A67-882C-74E88E96E8A3}
+	EndGlobalSection
+EndGlobal
